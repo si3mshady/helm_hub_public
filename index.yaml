@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  blockchain_spotify:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-14T06:25:06.960838-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 574a62b39583688aa1d64d074ab752047f1ae9122c7ac1219ec6c4f1e1077d93
+    name: blockchain_spotify
+    type: application
+    urls:
+    - https://si3mshady.github.io/helm_hub_public/blockchain_spotify-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-06-14T06:25:06.960141-05:00"
